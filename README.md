@@ -35,7 +35,7 @@
 
 <div align="center">
 
-![Crypthium's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crypthium&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Crypthium's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberGamecst&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypthium&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
